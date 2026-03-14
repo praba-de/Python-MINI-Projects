@@ -42,9 +42,9 @@ Example structure:
 
 Python-MINI-Projects
 │
-├── Project 1
-├── Project 2
-├── Project 3
+├── Project Name 1
+├── Project Name 2
+├── Project Name 3
 
 
 ---
