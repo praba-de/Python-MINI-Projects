@@ -1,3 +1,14 @@
+# Voice Assistant Project
+# This program is a simple voice assistant built using Python.
+# It can recognize voice commands and perform tasks like:
+# - Searching Wikipedia
+# - Opening websites (YouTube, Google, StackOverflow)
+# - Telling the current time
+# - Playing music
+# - Exiting the assistant
+
+
+
 import pyttsx3
 import speech_recognition as sr
 import datetime
